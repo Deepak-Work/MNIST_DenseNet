@@ -137,7 +137,8 @@ class DenseNet(nn.Module):
 
 
 # Hyper Parameters
-EPOCH = 5BATCH_SIZE = 100
+EPOCH = 5
+BATCH_SIZE = 100
 LR = 0.0001              # learning rate
 DOWNLOAD_MNIST = True   # set to False if you have downloaded
 
