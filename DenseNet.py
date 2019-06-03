@@ -15,7 +15,7 @@ from torchvision import datasets
 from torch.autograd import Variable
 from torch.utils.data import DataLoader
 # My model
-import DenseNet as dn
+
 import torch.optim as optim
 from numpy import linalg
 from sklearn.manifold import TSNE
